@@ -13,10 +13,10 @@ n=n/10;
 }
 if(sum==temp)
 {
-printf("Yes it is a Palidrome");
+printf("Yes it is a Palindrome");
 }
 else
 {
-printf("Not a Palidrome");
+printf("Not a Palindrome");
 }
 }
